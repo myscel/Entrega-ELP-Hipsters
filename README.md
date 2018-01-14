@@ -1,3 +1,3 @@
 # Entrega-ELP-Hipsters
 
-Voy a borrar documentacion readthedocs.io la que vale es la otra
+Para ver readthedocs.io http://entrega-elp.readthedocs.io/
