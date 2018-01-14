@@ -1,6 +1,6 @@
 Want to Use Sahana Eden?
 ===================
-Try out one of our Demos
+Try out one of our Demos:
 ----------------
 - `Demo Site <http://demo.eden.sahanafoundation.org/>`_
 - `DRR Project <http://eden.sahanafoundation.org/wiki/InstallationGuidelines>`_
@@ -11,16 +11,17 @@ Install the software on your own system:
 
 Read the Book
 ----------------
-- :doc:`./wanttouse/book`
+- Book
 
 Read the User Manual
 ----------------
-- :doc:`./wanttouse/userguidelines`
+- User Guidelines
 
 Join the Community
 ----------------
-- :doc:`./wanttouse/mailinglist`
-- :doc:`./wanttouse/ircchat`
+- Mailing List
+- IRC Chat
+- Use the Wiki
 
 If you’re using Sahana in your organization, please create a Deployment Page on the wiki to describe how you’ll be using Sahana and a BluePrint Page for any new features that you’d like to develop.
 
